@@ -1,0 +1,25 @@
+<resources>
+
+
+    <style name="MaterialTheme" parent ="ParentMaterialTheme">
+
+
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="ParentMaterialTheme" parent="Theme.AppCompat.Light">
+        <!-- parent Theme for all pre_lollipop and lollopop above version i.e for all devices -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+        <item name = "colorControlHighlight">#1efa1b</item>
+        <item name="colorButtonNormal">#f955f3</item>
+        <item name="colorControlActivated">#0C2BF4</item>
+        <item name="android:textColorPrimary">#fff</item>
+
+
+    </style>
+
+</resources>
